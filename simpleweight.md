@@ -5,8 +5,9 @@ Day 0: Dec. 21, 2017
 
 **Today’s Progress**: Thursday - I've decided to try to create markdown of projects I'd made either on my own or through tutorials.
 
-**Thoughts:** Write additional thoughts here.
+**Thoughts:** 1. I've seems to have trouble getting my picture to show up on my MD. 2. Today I'm going to finish this tutorial. I know I'm most of way done with the video. I just need to finish the js. Also I might sperate the CSS and JS into different files. Just to make it easier for me to read.
 
-**Link to Tutorial:** [yourName Day 1](insertLinkToTweet)
+**Link to Tutorial:** [Traversy Media
+](https://www.youtube.com/watch?v=7l-ZAuU8TXc&ab_channel=TraversyMedia)
 
-**Link to Twitter:** [nameOfWork](insertLinkHere)
+**Link to Twitter:** [@justcallme_lil](insertLinhttps://twitter.com/justcallme_lilkHere)
