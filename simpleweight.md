@@ -1,7 +1,8 @@
 <h2 align=”center”>
 Day 0: Dec. 21, 2017
 </h2>
-![](ScreenShot.png" alt=”screenshot”)
+
+![Screen Shot](ScreenShot.png)
 
 **Today’s Progress**: Thursday - I've decided to try to create markdown of projects I'd made either on my own or through tutorials.
 
